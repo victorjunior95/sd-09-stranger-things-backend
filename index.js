@@ -10,7 +10,6 @@ const app = express();
 
 const { PORT } = process.env.PORT;
 
-
 const strangerThingsRepository = new StrangerThingsRepository(
   strangerThingsDataset,
 );
