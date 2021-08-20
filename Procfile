@@ -1,1 +1,1 @@
-web: pm2-runtime start ecosystem.cofig.yml
+web: pm2-runtime start ecosystem.config.yml
